@@ -2,6 +2,13 @@
 /dist
 /node_modules
 
+#local enviroment
+.env.local
+.env.*.local
+*.key
+*.crt
+*.pem
+
 # Logs
 logs
 *.log
